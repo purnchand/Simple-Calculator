@@ -1,6 +1,8 @@
 # Simple Calculator
 
-This is a Simple Calculator using Python
+This is a Simple Calculator Project using Python.
+
+The Enhanced Simple Calculator Application is a user-friendly tool developed in Python, utilizing Tkinter for graphical user interface development. This intuitive calculator empowers users with basic arithmetic operations in a sleek and easy-to-use interface, ensuring accuracy, reliability, and an enjoyable calculation experience.
 
 # Output
 
